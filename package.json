@@ -1,0 +1,24 @@
+{
+  "name": "teardrop",
+  "version": "1.0.0",
+  "description": "This is a bot for purchasing on Shopify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwardJS002/Teardrop-Bot.git"
+  },
+  "author": "Edward Lindao Marazita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwardJS002/Teardrop-Bot/issues"
+  },
+  "homepage": "https://github.com/EdwardJS002/Teardrop-Bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^7.1.0"
+  }
+}
