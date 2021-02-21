@@ -17,7 +17,11 @@ GET BASE_URL/products/HANDLER
 ### 3/ Générer le lien add to cart.
 
 ```bash
-GET ${config.BASE_URL}/cart/add.js?quantity=1&id=${item}
+GET `${config.BASE_URL}/cart/add.js?quantity=1&id=${item}`
+```
+
+```bash
+GET `${config.BASE_URL}/cart/${item}:1`
 ```
 
 ---- TODO

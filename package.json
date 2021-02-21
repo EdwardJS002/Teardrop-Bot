@@ -19,6 +19,7 @@
   "homepage": "https://github.com/EdwardJS002/Teardrop-Bot#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "puppeteer": "^7.1.0"
+    "puppeteer": "^7.1.0",
+    "time-stamp": "^2.2.0"
   }
 }
